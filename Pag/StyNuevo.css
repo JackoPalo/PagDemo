@@ -23,7 +23,7 @@ header {
 	position: fixed;
 	list-style: none;
 	font-size: 20px;
-	-webkit-transition:all 0.9s ease-out;
+	transition:all 0.9s ease-out;
 	-moz-transition:all 0.9s ease-out;
 
 	}
@@ -42,8 +42,8 @@ header {
 #Botonera ul li{
 	display: inline-block;
 	width: 201px;
-	height: 60px
-	margin:0px;
+	height: 60px;
+	margin: 0px;
 	padding: 0px;
 
 }
@@ -59,11 +59,11 @@ header {
 	float: left;
 	text-align: center;
 	line-height: 60px;
-	-webkit-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
 	-moz-transition:all 0.5s ease-out;
 }
 #Botonera1 ul li a{
-	-webkit-transition:all 0.5s ease-out;
+	transition:all 0.5s ease-out;
 	-moz-transition:all 0.5s ease-out;
 	display: block;
 	color: #000;
@@ -122,13 +122,17 @@ section{
 #Parte2{
 	width: 1000px;
 	height: 700px;
-	margin: 0px;
+	
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #9F38;
-	position: initial;
+	display:flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 	padding-top: 60px;
-
+	
 	border-radius:  3%;
 	
 }
@@ -272,14 +276,13 @@ section{
 
 
 
-video {
-	padding: 0px;
-	height: 600px;
-	width: 1000px;
+#videoCom{
+	
+	height: 400px;
+	width: 660px;
 	border-radius: 2% ;
-	text-align: center;
-	margin-top: 0
-	background-color: #FFFFFF;
+	
+	background-color : #000;
 
 }
 #Controladores{
