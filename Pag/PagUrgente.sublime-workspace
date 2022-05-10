@@ -1,0 +1,840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pri",
+				"principal"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"wid",
+				"max-width\tproperty"
+			],
+			[
+				"cont",
+				"justify-content\tproperty"
+			],
+			[
+				"widt",
+				"min-width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"mat",
+				"margin-left\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"secti",
+				"section"
+			],
+			[
+				"resp",
+				"img-responsive"
+			],
+			[
+				"w",
+				"w-100"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"dro",
+				"dropdown-menu"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"heda",
+				"header\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"Con",
+				"Controladores"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"cu",
+				"currentTime"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"l",
+				"loop\tAttr"
+			],
+			[
+				"v",
+				"video"
+			],
+			[
+				"B",
+				"Boton_Play"
+			],
+			[
+				"Boto",
+				"Boton"
+			],
+			[
+				"Bot",
+				"Boton"
+			],
+			[
+				"inline-b",
+				"inline-table\tdisplay"
+			],
+			[
+				"de",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"un",
+				"text-underline-position\tproperty"
+			],
+			[
+				"Par",
+				"Parte2"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"co",
+				"corroborarNombre"
+			],
+			[
+				"Val",
+				"validarFormu"
+			],
+			[
+				"c",
+				"corroborarEmail"
+			],
+			[
+				"cor",
+				"corroborarApellido"
+			],
+			[
+				"corr",
+				"corroborarEdad"
+			],
+			[
+				"coro",
+				"corroborarNombre"
+			],
+			[
+				"Ed",
+				"edad"
+			],
+			[
+				"VAlidar",
+				"validarFormu"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"V",
+				"validarFormu"
+			],
+			[
+				"mos",
+				"mostrarDato"
+			],
+			[
+				"val",
+				"valor"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"map",
+				"mapurl"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"er",
+				"Error"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"rot",
+				"rotateZ"
+			],
+			[
+				"ro",
+				"rotateY"
+			],
+			[
+				"Ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"transi",
+				"transition\tproperty"
+			],
+			[
+				"rota",
+				"rotateX"
+			],
+			[
+				"rotat",
+				"rotateY"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"100px",
+				"1000px"
+			],
+			[
+				"com",
+				"comidaAlto"
+			],
+			[
+				"Comid",
+				"comidaAncho"
+			],
+			[
+				"Parte",
+				"Parte3"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"consul"
+			],
+			[
+				"contac",
+				"Contacto"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ls",
+				"list-style\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ve",
+				"ventana"
+			],
+			[
+				"transit",
+				"transition-property\tproperty"
+			],
+			[
+				"e",
+				"elastic"
+			],
+			[
+				"text-",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"tes",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"rel",
+				"reloj"
+			],
+			[
+				"el",
+				"elemento"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"exa",
+				"example2"
+			],
+			[
+				"example",
+				"example1"
+			],
+			[
+				"r",
+				"round\tbackground-repeat"
+			],
+			[
+				"backgrounda",
+				"background-repeat\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"style",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"list",
+				"list-style-position\tproperty"
+			],
+			[
+				"H",
+				"H4\tTag"
+			],
+			[
+				"text",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"wi",
+				"border-left-width\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"border-ri",
+				"border-image-source\tproperty"
+			],
+			[
+				"ima",
+				"border-image-width\tproperty"
+			],
+			[
+				"im",
+				"border-image\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"f",
+				"float\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Jakov/Desktop/PagBootstrap/index.html",
+			"settings":
+			{
+				"buffer_size": 14570,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jakov/Desktop/PagBootstrap/Estilos.css",
+			"settings":
+			{
+				"buffer_size": 342,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jakov/Desktop/PagUrgente/FunctionsPage.js",
+		"/C/Users/Jakov/Desktop/PagUrgente/StyNuevo.css",
+		"/C/Users/Jakov/Desktop/PagUrgente/Index.html",
+		"/C/Users/Jakov/Desktop/Nueva Pag/javee.js",
+		"/C/Users/Jakov/Desktop/Nueva Pag/contacto.html",
+		"/C/Users/Jakov/Desktop/Nueva Pag/index.html",
+		"/C/Users/Jakov/Desktop/Nueva Pag/Trabajos.html",
+		"/C/Users/Jakov/Desktop/Nueva Pag/Index.html",
+		"/C/Users/Jakov/Desktop/Nueva Pag/Index_style.css",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fuente.css",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fuentes.css",
+		"/C/Users/Jakov/Desktop/Nueva Pag/jquery.fancybox-1.3.4/style.css",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fancybox/jquery.fancybox-1.3.4.css",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fancybox/jquery.fancybox-1.3.4.js",
+		"/C/Users/Jakov/Desktop/Nueva Pag/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fancybox/jquery.fancybox-1.3.4.pack.js",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fancybox/jquery.easing-1.3.pack.js",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fancybox/jquery.mousewheel-3.0.4.pack.js",
+		"/C/Users/Jakov/Desktop/Nueva Pag/fancybox/fancybox-x.png",
+		"/C/Users/Jakov/Desktop/Nueva Pag/jquery.fancybox-1.3.4/index.html",
+		"/C/Users/Jakov/Desktop/Nueva Pag/jquery.fancybox-1.3.4/jquery-1.4.3.min.js",
+		"/C/Users/Jakov/Documents/Curso Front End/Html y css/Pagina/Style.css",
+		"/C/Users/Jakov/Documents/Curso Front End/Html y css/Pagina/index.html",
+		"/C/Users/Jakov/Documents/html/Ejemplos/Autosugesti.html",
+		"/C/Users/Jakov/Documents/Curso Front End/Html y css/Style.css",
+		"/C/Users/Jakov/Documents/Curso Front End/Html y css/Index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"67px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Jakov/Desktop/PagBootstrap/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12740,
+								12740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2093.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jakov/Desktop/PagBootstrap/Estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.947916666667,
+			0.973958333333,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PagUrgente.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

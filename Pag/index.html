@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="StyNuevo.css">
+	<link rel="stylesheet" type="text/css" href="fuente.css">
+	<link href="https://fonts.googleapis.com/css?family=Eczar|Pacifico|Staatliches" rel="stylesheet">
+	<title>Jacko</title>
+
+</head>
+<body id="Fondo">
+	<header><!--Animacion Aqui -->	
+
+
+
+			<nav id="Botonera1">
+			<li><a  style="width: 80px;" onclick="mostrarONoMenu('Menu')"><span class="icon-menu"></span></a></li>
+			<ul id="Menu" style="display: none;">
+				<li><a href="Index.html#Parte1" ><span class="icon-home"></span></a></li>
+		        <li><a href="Index.html#Parte2"  ><span class="icon-film"></span></a></li>
+		        <li><a href="Index.html#Parte3"  ><span class="icon-profile"></span></a></li>
+			</ul>
+			<!--
+			<div class="Scene"style="display: block;">
+			<div class="Object"style="display: block;">
+				<img id="IM1" class="Face" src="Comidita\Comida2.jpg">
+				<img id="IM2" class="Face" src="Comidita\Comida3.jpg">
+				<img id="IM3" class="Face" src="Comidita\Comida4.jpg">
+				<img id="IM4" class="Face" src="Comidita\Comida5.jpg">
+				<img id="IM5" class="Face" src="Comidita\Comida6.jpg">
+				<img id="IM6" class="Face" src="Comidita\Comida7.jpg">
+
+
+			</div>
+			</div>
+
+			
+			<canvas id="JCK" 
+					width="300"
+					height="300"
+					style="width: 300px;
+							height: 300px;"
+
+			>		
+			</canvas>
+			-->
+
+
+
+		</nav>
+	
+	</header>
+	<section>
+
+		<div id="Parte1" style="padding-top: 60px;">
+			
+			
+			
+			<div id="cajaDato">
+				
+			
+			</div>
+
+			
+			
+			<!--<a class="tecla" onclick="EliminarTODO()">Eliminar todos los Consejos</a>-->
+			<article id="PConsejo">
+				<h1>Consejos:</h1>
+				<p>Esta seccion es un  apartado donde aquellos que entren a la pagina dejen coomentario respecto del desarrollo web y temas similares,
+						Se debe colocar una <strong>clave</strong>  para dejar un consejo un dato Y ese mismo se utilizaria para borrar ese comentario</p><br>	
+
+				
+				<form>
+				<label>Clave</label><br>
+				<input type="text" name="CLAVE" id="CLAVE"><br>	
+				<label>Comentario</label><br>	
+				<textarea name="text" id="TEXTO"></textarea><br>	
+				<a  id="grabar" class="tecla" >Push</a><br>		
+				<a style="float: left;" class="tecla" onclick="EliminarClave(prompt('introdusca la clave del consejo'))">Eliminar un consejo</a>
+				</form>
+				
+			</article>
+			
+			
+		</div>
+		<div id="Parte2">
+			<video id="videoCom" src="Comidavideo.mp4" autoplay="" loop=""></video>
+			<nav id="Controladores">
+				<a href="#Parte2" id="Parar" onclick="resetVideo()"><span class="icon-stop"></span></a>
+				<a href="#Parte2" id="Reversa" onclick="Retroceder()"><span class="icon-backward"></span></a>
+				<a href="#Parte2" id="Reproducir" onclick="Reproduccion()"><span class="icon-pause"></span></a>
+				<!--<a href=""><span class="icon-play2"></span></a>-->
+				<a href="#Parte2" id="ReAvanzar" onclick="Avanzar()"><span class="icon-forward2"></span></a>
+			</nav>
+		</div>
+		<div id="Parte3">
+
+				<div  id="Formulario" >
+				<form >
+		  	
+		  		<label>nombre/s: </label> 
+		  		<input type="text" id="nombre" required=""	maxlength="40" >
+		  		<label>Apellido/s </label> 
+		  		<input type="text" id= "apellido"  required="" maxlength="80"></label>
+		  		<label>E-mail:</label> 
+		  		<input type="email" id="email" required="" maxlength="80"></label>
+		  		<label>Edad:</label>
+		  		<input type="number" id="Edad" required="">
+		  		<label>Consulta</label> 
+		  		<textarea id="Consulta" rows="5" cols="26" name="Consulta" required="" maxlength="300"></textarea>
+          		<br>
+		  		<input type="submit" value="validar">
+		  	
+			  	</form>
+			  	</div>
+			  	<article style="overflow: auto; float: right;" id="mapa">
+					<iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26083583.648434322!2d-81.62800442119055!3d-37.05673949814522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccaf5f5fdc667%3A0x3d2f77992af00fa8!2sArgentina!5e0!3m2!1ses-419!2sar!4v1556752363429!5m2!1ses-419!2sar" width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+					<div id="ubicacion">
+					<button id="obtener">Mostrar Coordenadas Acutuales</button>
+					</div>
+				</article>
+
+		</div>
+				
+	</section>
+	<footer>
+		<nav id="contacto1">
+  			<h4>Formas de Contacto</h4>
+  			<ul>
+  				<li>E-mail:nachopalo1412@gmail.com</li>
+  				<li>Nro de telefono:XXXXXXXXX</li>
+  			</ul>
+  			<H4>Gracias por su visita!</H4>
+  		</nav>
+  		<nav id="contacto2">
+  		<ul>
+  			<li><a href="https://www.youtube.com/"><span class="icon-youtube"></span></a></li>
+  			<li><a href="https://www.instagram.com/?hl=es-la"><span class="icon-github"></span></a></li>
+  			<li><a href="https://es-la.facebook.com/"><span class="icon-twitter"></span></a></li>
+  			<li><a href="https://es-la.facebook.com/"><span class="icon-facebook2"></span></a></li>
+  			<li><a href="https://es-la.facebook.com/"><span class="icon-linkedin"></span></a></li>
+
+  		</ul>
+  		</nav>
+
+	</footer>
+	<script type="text/javascript" src="FunctionsPage.js">
+		
+	</script>
+	
+
+</body>
+</html>
